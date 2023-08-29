@@ -30,3 +30,4 @@ function closeAllCategroies() {
     item.classList.remove('active');
   });
 }
+//
